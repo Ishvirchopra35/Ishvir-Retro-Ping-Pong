@@ -1,1 +1,2 @@
 # Ishvir-Retro-Ping-Pong
+The Ping Pong game is a Python program that uses the Pygame library to create a simple, classic ping pong game. The game window is set to 600x400 pixels with white paddles and a ball on a black background. Players control the left and right paddles using the 'W' and 'S' keys, and the up and down arrow keys, respectively. The ball moves across the screen, bouncing off the paddles and screen edges, with the speed increasing after a delay. Scores are displayed at the top, and the game resets the ball's position when it goes out of bounds on either side.
